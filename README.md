@@ -2,7 +2,7 @@
 
 This is a proof of concept for driving [WebIntents](http://webintents.org/ "Web Intents") actions through content that is marked up using [Schema.org](http://schema.org/ "Home - schema.org") terms - intent.iom stands for 'intent I/O mapping'.
 
-See the example deployed at: 
+See the example deployed at: [http://lab.linkeddata.deri.ie/2012/intent.iom/](http://lab.linkeddata.deri.ie/2012/intent.iom/ "Schema.org + Web Intents")
 
 ## To dos
 
